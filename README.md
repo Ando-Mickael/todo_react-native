@@ -44,7 +44,7 @@ The Todo app includes the following features:
 The app was built using the following technologies:
 
 -   React Native
--   Expo
+-   Django Rest Framework
 
 ## Contributing
 
